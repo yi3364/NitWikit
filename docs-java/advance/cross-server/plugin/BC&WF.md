@@ -76,6 +76,28 @@ sidebar_position: 1
 
 :::
 
+## HuskChat
+
+同 [Velocity 一侧的讲解](velocity.md#HuskChat)
+
+## Sonar
+
+同 [Velocity 一侧的讲解](velocity.md#Sonar)
+
+## AuthMeBungee
+
+:::info
+
+`SpigotMC` https://www.spigotmc.org/resources/.50219/
+
+`GitHub` https://github.com/AuthMe/AuthMeBungee
+
+:::
+
+这是 BungeeCord 版本的 AuthMe 。如果你的登录服使用 AuthMe 登录，请务必在 BungeeCord 上安装此插件，以增加登录系统的安全性和完整性，这可以为你避免一些不必要的麻烦
+
+如果你不安装此插件，在玩家登录时很可能乘此跳到其他子服务器来跳过登录，以此获取管理员账号来炸服
+
 # 装在跨服端或+子服端
 
 这类插件可以只装在跨服端，但同时在子服安装可以有更多的功能。
@@ -105,28 +127,6 @@ sidebar_position: 1
 ## Tab
 
 同 [Velocity 一侧的讲解](velocity.md#tab)
-
-## HuskChat
-
-同 [Velocity 一侧的讲解](velocity.md#HuskChat)
-
-## Sonar
-
-同 [Velocity 一侧的讲解](velocity.md#Sonar)
-
-## AuthMeBungee
-
-:::info
-
-`SpigotMC` https://www.spigotmc.org/resources/.50219/
-
-`GitHub` https://github.com/AuthMe/AuthMeBungee
-
-:::
-
-这是 BungeeCord 版本的 AuthMe 。如果你的登录服使用 AuthMe 登录，请务必在 BungeeCord 上安装此插件，以增加登录系统的安全性和完整性，这可以为你避免一些不必要的麻烦
-
-如果你不安装此插件，在玩家登录时很可能乘此跳到其他子服务器来跳过登录，以此获取管理员账号来炸服
 
 # 装在跨服端+子服端
 

@@ -96,28 +96,6 @@ CAPTCHA 在玩家进入服务器时，会进入 Sonar 创建的虚拟服务器�
 
 非常推荐安装
 
-## Tab
-
-:::info
-
-`SpigotMC` https://www.spigotmc.org/resources/.57806/
-
-`GitHub` https://github.com/NEZNAMY/TAB
-
-`modrinth` https://modrinth.com/plugin/tab-was-taken
-
-:::
-
-一款好用的 tab 栏插件，此外，还可以制作计分板，Bossbar
-
-支持制作文字动画，支持 RGB 颜色
-
-想让他显示 PlaceholderAPI 的变量?请在代理端和所有子服务器上安装 [Tab-Bridge](https://www.spigotmc.org/resources/.83966/)
-
-此外，如果你使用了 Layout 功能，如果你不安装此插件，会导致一些显示 Bug
-
-因此强烈建议将 Tab-Bridge 一起安装
-
 # 可安装在跨服端或子服
 
 ## MiniMOTD
@@ -155,6 +133,30 @@ CAPTCHA 在玩家进入服务器时，会进入 Sonar 创建的虚拟服务器�
 同 [BungeeCord 一侧的讲解](BC&WF.md#playerbalancer)
 
 :::
+
+## Tab
+
+:::info
+
+`SpigotMC` https://www.spigotmc.org/resources/.57806/
+
+`GitHub` https://github.com/NEZNAMY/TAB
+
+`modrinth` https://modrinth.com/plugin/tab-was-taken
+
+:::
+
+一款好用的 tab 栏插件，此外，还可以制作计分板，Bossbar
+
+支持制作文字动画，支持 RGB 颜色
+
+想让他显示 PlaceholderAPI 的变量?请在代理端和所有子服务器上安装 [Tab-Bridge](https://www.spigotmc.org/resources/.83966/)
+
+此外，如果你使用了 Layout 功能，如果你不安装此插件，会导致一些显示 Bug
+
+因此强烈建议将 Tab-Bridge 一起安装
+
+_其实只安装在跨服端就行了，子服没必要装，你实在要装也没关系_
 
 # 装在跨服端+子服端
 
