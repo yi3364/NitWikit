@@ -7,9 +7,9 @@ sidebar_position: 1
 
 :::info
 
-`SpigotMC` https://www.spigotmc.org/resources/.9089/
+`SpigotMC` https://www.spigotmc.org/resources/.111858/
 
-`GitHub` https://github.com/EssentialsX/Essentials
+`GitHub` https://github.com/TrPlugins/TrChat
 
 :::
 
