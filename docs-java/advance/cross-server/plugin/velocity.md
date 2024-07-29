@@ -1,6 +1,6 @@
 ---
-title: Velocity 端
-sidebar_position: 2
+title Velocity 端
+sidebar_position 2
 ---
 
 # Velocity 端
@@ -13,9 +13,9 @@ sidebar_position: 2
 
 :::info
 
-`PaperMC`: https://hangar.papermc.io/4drian3d/VLobby
+`PaperMC` https://hangar.papermc.io/4drian3d/VLobby
 
-`GitHub`: https://github.com/4drian3d/VLobby
+`GitHub` https://github.com/4drian3d/VLobby
 
 :::
 
@@ -35,9 +35,9 @@ sidebar_position: 2
 
 :::info
 
-`modrinth`: https://modrinth.com/plugin/authmevelocity
+`modrinth` https://modrinth.com/plugin/authmevelocity
 
-`GitHub`: https://github.com/4drian3d/AuthMeVelocity
+`GitHub` https://github.com/4drian3d/AuthMeVelocity
 
 :::
 
@@ -49,11 +49,11 @@ sidebar_position: 2
 
 :::info
 
-`SpigotMC`: https://www.spigotmc.org/resources/.94496
+`SpigotMC` https://www.spigotmc.org/resources/.94496
 
-`modrinth`: https://modrinth.com/plugin/huskchat
+`modrinth` https://modrinth.com/plugin/huskchat
 
-`GitHub`: https://github.com/WiIIiam278/HuskChat
+`GitHub` https://github.com/WiIIiam278/HuskChat
 
 :::
 
@@ -65,7 +65,7 @@ sidebar_position: 2
 
 **已知 Bug** :
 
-[Issue: 聊天消息无法被其他插件读取](https://github.com/WiIIiam278/HuskChat/issues/248)
+[Issue 聊天消息无法被其他插件读取](https://github.com/WiIIiam278/HuskChat/issues/248)
 
 如果你的服务器安装了 QuickShop 等需要输入聊天消息来录入参数的插件
 
@@ -78,11 +78,11 @@ sidebar_position: 2
 
 :::info
 
-`SpigotMC`: https://www.spigotmc.org/resources/.115239/
+`SpigotMC` https://www.spigotmc.org/resources/.115239/
 
-`GitHub`: https://github.com/jonesdevelopment/sonar/
+`GitHub` https://github.com/jonesdevelopment/sonar/
 
-`modrinth`: https://modrinth.com/plugin/sonar
+`modrinth` https://modrinth.com/plugin/sonar
 
 :::
 
@@ -92,7 +92,7 @@ sidebar_position: 2
 
 **特色反假人机制**:
 
-CAPTCHA: 在玩家进入服务器时，会进入 Sonar 创建的虚拟服务器中，玩家需要在聊天栏中输入随机生成的验证码才能进入服务器，这样可以防御 **100%** 的假人。非常的安全
+CAPTCHA 在玩家进入服务器时，会进入 Sonar 创建的虚拟服务器中，玩家需要在聊天栏中输入随机生成的验证码才能进入服务器，这样可以防御 **100%** 的假人。非常的安全
 
 非常推荐安装
 
@@ -100,11 +100,11 @@ CAPTCHA: 在玩家进入服务器时，会进入 Sonar 创建的虚拟服务器�
 
 :::info
 
-`SpigotMC`: https://www.spigotmc.org/resources/.57806/
+`SpigotMC` https://www.spigotmc.org/resources/.57806/
 
-`GitHub`: https://github.com/NEZNAMY/TAB
+`GitHub` https://github.com/NEZNAMY/TAB
 
-`modrinth`: https://modrinth.com/plugin/tab-was-taken
+`modrinth` https://modrinth.com/plugin/tab-was-taken
 
 :::
 
@@ -172,7 +172,7 @@ CAPTCHA: 在玩家进入服务器时，会进入 Sonar 创建的虚拟服务器�
 
 :::info
 
-`modrinth`: https://modrinth.com/plugin/signedvelocity
+`modrinth` https://modrinth.com/plugin/signedvelocity
 
 :::
 

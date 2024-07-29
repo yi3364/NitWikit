@@ -1,6 +1,6 @@
 ---
-title: BungeeCord 端
-sidebar_position: 1
+title BungeeCord 端
+sidebar_position 1
 ---
 
 # BungeeCord 端
@@ -17,11 +17,11 @@ sidebar_position: 1
 
 :::info
 
-`SpigotMC` :https://www.spigotmc.org/resources/.81254/
+`SpigotMC` https://www.spigotmc.org/resources/.81254/
 
-`GitHub` :https://github.com/jpenilla/MiniMOTD/
+`GitHub` https://github.com/jpenilla/MiniMOTD/
 
-`modrinth` :https://modrinth.com/plugin/minimotd
+`modrinth` https://modrinth.com/plugin/minimotd
 
 :::
 
@@ -84,11 +84,11 @@ sidebar_position: 1
 
 :::info
 
-`SpigotMC` :https://www.spigotmc.org/resources/.55011/
+`SpigotMC` https://www.spigotmc.org/resources/.55011/
 
-`GitHub` :https://github.com/BGHDDevelopment/PlayerBalancer
+`GitHub` https://github.com/BGHDDevelopment/PlayerBalancer
 
-`modrinth` :https://modrinth.com/plugin/minimotd
+`modrinth` https://modrinth.com/plugin/minimotd
 
 :::
 
@@ -118,9 +118,9 @@ sidebar_position: 1
 
 :::info
 
-`SpigotMC`: https://www.spigotmc.org/resources/.50219/
+`SpigotMC` https://www.spigotmc.org/resources/.50219/
 
-`GitHub`: https://github.com/AuthMe/AuthMeBungee
+`GitHub` https://github.com/AuthMe/AuthMeBungee
 
 :::
 
@@ -136,13 +136,13 @@ sidebar_position: 1
 
 :::info
 
-`spigot` :https://www.spigotmc.org/resources/papiproxybridge.108415/
+`spigot` https://www.spigotmc.org/resources/papiproxybridge.108415/
 
-`GitHub` :https://github.com/WiIIiam278/PAPIProxyBridge
+`GitHub` https://github.com/WiIIiam278/PAPIProxyBridge
 
-`modrinth` :https://modrinth.com/plugin/papiproxybridge
+`modrinth` https://modrinth.com/plugin/papiproxybridge
 
-`官方文档` :https://william278.net/project/papiproxybridge
+`官方文档` https://william278.net/project/papiproxybridge
 
 :::
 
