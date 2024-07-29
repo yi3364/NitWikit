@@ -7,7 +7,7 @@ sidebar_position: 1
 
 您的服务端和客户端都需要安装 Java 才能运行。各个游戏版本需要安装的 Java 版本不同。
 
-原则上选择最新的兼容的 Java 版本，可以体验到最新的优化，并且大部分现代插件对最新版的特性有优化（比如AuthMeReReload）。
+原则上选择最新的兼容的 Java 版本，可以体验到最新的优化，并且大部分现代插件对最新版的特性有优化（比如 AuthMeReReload）。
 
 <details>
   <summary>JRE 和 JDK 是什么? 我该怎么选择?</summary>
@@ -22,19 +22,19 @@ JDK(Java Development Kit) 又称 J2SDK(Java2 Software Development Kit)，是 Jav
 ## 选择版本
 
 :::warning
-部分服务端有在项目的README中标注最低版本和推荐版本，例如 [Beast](https://github.com/HomoMC/Beast)，最低版本为 Java 8，推荐版本为 Java 21
+部分服务端有在项目的 README 中标注最低版本和推荐版本，例如 [Beast](https://github.com/HomoMC/Beast)，最低版本为 Java 8，推荐版本为 Java 21
 MOD 服务端
 :::
 
 ### 常见插件端(Paper 等)
 
-| Minecraft 版本    | 最低版本    | 推荐版本    |
+| Minecraft 版本   | 最低版本 | 推荐版本 |
 |-----------------|---------|---------|
 | 1.0 - 1.11.2    | Java 6  | Java 8  |
 | 1.12 - 1.16.4   | Java 8  | Java 11 |
 | 1.16.5          | Java 8  | Java 16 |
-| 1.17            | Java 16 | Java 17 |
-| 1.17.1 - 1.20.4 | Java 17 | Java 21 |
+| 1.17 - 1.17.1   | Java 16 | Java 17 |
+| 1.18 - 1.20.4   | Java 17 | Java 21 |
 | 1.20.5 - 1.21   | Java 21 | Java 21 |
 
 ### 混合服务端(CatServer 等)
@@ -88,7 +88,7 @@ TODO
 https://www.java.com/zh-CN/download/
 </details>
 
-如果你想进行 JVM 优化,请看[JVM优化](https://yizhan.wiki/NitWikit/Java/optimize/jvm)
+如果你想进行 JVM 优化,请看 [JVM 优化](https://yizhan.wiki/NitWikit/Java/optimize/jvm)
 
 ## 验证 Java 安装
 

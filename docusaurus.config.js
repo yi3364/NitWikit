@@ -98,6 +98,11 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      // 标题渲染范围
+      tableOfContents: {
+        minHeadingLevel: 2,
+        maxHeadingLevel: 5,
+      },
       // Replace with your project's social card
       // sidebar自动折叠
       docs: {
@@ -143,7 +148,7 @@ const config = {
             type: 'search',
             position: 'right',
           },
-          // Github
+          // GitHub
           {
             href: "https://github.com/postyizhan/NitWikit",
             className: "header-github-link",
