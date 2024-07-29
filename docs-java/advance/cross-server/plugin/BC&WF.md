@@ -1,6 +1,6 @@
 ---
-title BungeeCord 端
-sidebar_position 1
+title: BungeeCord 端
+sidebar_position: 1
 ---
 
 # BungeeCord 端

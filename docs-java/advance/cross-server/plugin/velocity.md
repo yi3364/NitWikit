@@ -1,6 +1,6 @@
 ---
-title Velocity 端
-sidebar_position 2
+title: Velocity 端
+sidebar_position: 2
 ---
 
 # Velocity 端
