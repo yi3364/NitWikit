@@ -34,6 +34,8 @@ sidebar_position: 4
 
 `GitHub（推荐，社区维护）` https://github.com/Dreeam-qwq/TrMenu
 
+`vscode插件-trm语法提示` https://marketplace.visualstudio.com/items?itemName=hhhhhy.trmenu-helper
+
 :::
 
 交流群：325014486
@@ -109,3 +111,7 @@ https://github.com/Dreeam-qwq/TrMenu/blob/stable/v3/plugin/src/main/resources/se
 ### tpa选人菜单
 
 [查看配置](https://github.com/postyizhan/NitWikit/blob/main/docs-java/process/plugin/other/Menu/demo/inv-tpa选人菜单.yml)
+
+### 称号系统
+
+[查看配置](https://github.com/postyizhan/NitWikit/blob/main/docs-java/process/plugin/other/Menu/demo/inv-称号系统.yml)
