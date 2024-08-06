@@ -28,7 +28,7 @@ sidebar_position: 1
 
 我会告诉你 **我认为** 最简单的几种安装数据库的方法
 
-### 小皮数据库
+#### 小皮数据库
 
 <details>
   <summary>从官网下载和安装</summary>
@@ -58,7 +58,7 @@ MySQL5 版本太低了，很多插件需要更高版本的，装 MySQL8 就够�
 
 </details>
 
-### 宝塔面板
+#### 宝塔面板
 
 <details>
   <summary>从官网下载和安装</summary>
