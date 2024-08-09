@@ -61,6 +61,7 @@ https://nitwikit.yizhan.wiki/
    `git clone https://github.com/你的用户名/NitWikit.git`
 3. 在本地仓库中进行修改并构建文档测试，无误后 push 至自己的仓库
 4. 回到此仓库，点击 Pull requests -> New pull request 发起 PR
+5. 前往 [NitWikit-PR](https://github.com/users/postyizhan/projects/2) 查看审核状态
 
 # 🤝 贡献者
 
@@ -225,6 +226,13 @@ https://nitwikit.yizhan.wiki/
 		</tr>
 		<tr>
             <td align="center">
+                <a href="https://github.com/minimouse0">
+                    <img src="https://avatars.githubusercontent.com/u/116894415?v=4" width="50;" alt="minimouse0"/>
+                    <br />
+                    <sub><b>Minimouse48</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/MySoulcutting">
                     <img src="https://avatars.githubusercontent.com/u/72398605?v=4" width="50;" alt="MySoulcutting"/>
                     <br />
@@ -245,6 +253,8 @@ https://nitwikit.yizhan.wiki/
                     <sub><b>Coquettishpig</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/MoLiyi-WD">
                     <img src="https://avatars.githubusercontent.com/u/166040564?v=4" width="50;" alt="MoLiyi-WD"/>
@@ -276,10 +286,10 @@ https://nitwikit.yizhan.wiki/
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/SeaOrangejuice">
-                    <img src="https://avatars.githubusercontent.com/u/116551329?v=4" width="50;" alt="SeaOrangejuice"/>
+                <a href="https://github.com/alazeprt">
+                    <img src="https://avatars.githubusercontent.com/u/92018941?v=4" width="50;" alt="alazeprt"/>
                     <br />
-                    <sub><b>Sea_of_Orange</b></sub>
+                    <sub><b>alazeprt</b></sub>
                 </a>
             </td>
             <td align="center">
